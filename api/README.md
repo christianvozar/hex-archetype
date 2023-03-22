@@ -1,0 +1,1 @@
+API specifications (e.g., OpenAPI, gRPC, etc.) for different versions of the service.
