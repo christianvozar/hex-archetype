@@ -1,0 +1,1 @@
+Assets required for packaging code artifacts and continuous integration pipelines. Packer AMI definitions, Dockerfiles, deb/rpm/pkg scripts live in /build/package. Continuous Integration scripts live in /build/ci.
