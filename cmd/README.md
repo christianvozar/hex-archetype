@@ -1,0 +1,1 @@
+Code for generated binaries acting as entrypoint. The name of the sub-directory within /cmd should reflect the name of the output binary. It is common to utilize a small `main` function that imports and executes on packages from `/internal` and `/pkg` with no other usage.
