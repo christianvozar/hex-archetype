@@ -1,0 +1,1 @@
+Public application and package code. This code may be imported by external packages or applications. Since other applications can import code from this directory it is important to ensure proper API contracts are in place as modification of code here could have unwanted downstream effects to other applications or packages.
