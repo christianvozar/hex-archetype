@@ -1,0 +1,2 @@
+Private application and package code. This code never gets exported to other applications or packages and is enforced by the Go compiler. You are not limited to the top level `internal` directory. You can have more than one
+`internal` directory at any level in the codebase tree.
