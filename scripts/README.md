@@ -1,0 +1,1 @@
+Scripts to perform builds, install, analysis, tests, etc. These scripts serve to keep the root directoy Makefile clean and small.
