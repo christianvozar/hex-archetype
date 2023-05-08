@@ -1,0 +1,3 @@
+The Adapter folder contains code that bridges the gap between the external world and the service's core logic. It deals with various input and output mechanisms, such as web interfaces, databases, messaging systems, and other external services. Adapters translate data and requests from external systems into a format the application can understand, and vice versa. There are two types of adapters: primary (driven) and secondary (driving).
+
+Primary adapters handle user input or incoming requests, while secondary adapters manage interactions with external systems, such as databases or APIs.
