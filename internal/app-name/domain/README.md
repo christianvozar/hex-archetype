@@ -1,6 +1,6 @@
 # Domain
 
-A domain refers to the core business logic and the associated data models that represent the essential concepts and rules of a given application or system. The domain is the central part of the architecture and should be independent of any external systems, infrastructure, or user interfaces.
+A domain refers to the core business logic and the associated data models that represent the essential concepts and rules of a given application or system. The domain is the central part of the service's architecture and should be independent of any external systems, infrastructure, or user interfaces.
 
 Domain-driven design (DDD) is a common approach used to build the domain, focusing on modeling the real-world problem and the system's behavior in a clean and maintainable way. In hexagonal architecture, the domain is encapsulated and isolated from other concerns, such as data persistence or user interface, allowing it to evolve independently and be easily tested.
 
